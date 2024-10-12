@@ -41,6 +41,7 @@ After designing the PCB layout, I had the board manufactured by JLCPCB. I ordere
 * Soldering Tip: Hakko T18-D24
 * Desoldering Wire
 
+(I worked with a soldering iron heated to 350 degrees Celsius.)
 
  ![tools](https://github.com/user-attachments/assets/a18f79c0-9cfc-4297-8dea-78d1f986ac8a)
 <p align="center">
@@ -49,15 +50,26 @@ After designing the PCB layout, I had the board manufactured by JLCPCB. I ordere
 
 ![Arduino Clone without connectors](https://github.com/user-attachments/assets/1b32d16d-f6b8-4050-adc0-0c11530b55bf)
 
+I started with the soldering of the ATmega16U2 component, as it proved to be the most challenging. After soldering, I inspected the connections using a magnifying glass to check for any short circuits between the individual pins, followed by verification with a multimeter.
 
+Next, I moved on to soldering smaller components, such as SOD-323 and 0603 size-code components. I used the following method for soldering these components:
 
-After soldering all the components, I checked each soldered connection using a multimeter to ensure that all connections were properly made. Afterward, I soldered the connectors and checked them as well to ensure proper connections. Fortunately, all the soldered joints were correct, so no further adjustments were needed.
+1. I first applied a small amount of flux to one pad of the component.
+2. Then, I placed solder on that pad.
+3. After that, I applied more flux to the pad and soldered the component's corresponding lead on the pad where the solder had previously been applied.
+4. Finally, I soldered the other lead(s) of the component.
+
+To check if the component was properly soldered, I pushed one of its leads with the hot soldering iron tip. If the component did not move, it indicated that the other lead was secured, confirming that the connection had been made.
+
+However, this method was not practical, because is some cases the solder mask came off during the pushing process.
 
 
 ![Arduino Clone](https://github.com/user-attachments/assets/6ae7c882-7071-4322-a1c5-160ab8250482)
 <p align="center">
   Arduino Clone board
 </p>
+After soldering all the components, I checked each soldered connection using a multimeter to ensure that all connections were properly made. Afterward, I soldered the connectors and checked them as well to ensure proper connections. Fortunately, all the soldered joints were correct, so no further adjustments were needed.
+
 
 ![Arduino Clone compared to Arduino UNO](https://github.com/user-attachments/assets/3747f3fa-b0d8-47f7-8aa0-9a67a52f108f)
 <p align="center">
