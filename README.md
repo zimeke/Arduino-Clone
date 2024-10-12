@@ -6,7 +6,7 @@ This project involves creating a microcontroller similar to the Arduino UNO. The
 
 ## Designing PCB layout and 3D model in Altium Designer
 
-Designing the PCB layout and 3D model in Altium Designer. I have uploaded all the necessary documents for circuit manufacturing to the repository. For guidance on creating the schematic, I followed Robert Feranec's videos.
+Designing the PCB layout and 3D model in Altium Designer. I have uploaded all the necessary documents for circuit manufacturing to the repository. For guidance on creating the schematic and PCB layout, I followed Robert Feranec's videos.
 
 https://www.udemy.com/course/learn-to-design-your-own-boards/?couponCode=KEEPLEARNING
 
@@ -19,24 +19,31 @@ https://www.youtube.com/@RobertFeranec
 </p>
 
 
+
+
+
+
+
+
+
+## Soldering the components
+
 ![Arduino Clone without components](https://github.com/user-attachments/assets/2be04e06-dffd-4367-baf8-fb202165b220)
+
 <p align="center">
   PCB without components
 </p>
 
-JLCPCB rendelés fémezés
-
-![tools](https://github.com/user-attachments/assets/a18f79c0-9cfc-4297-8dea-78d1f986ac8a)
-<p align="center">
-  Tools used
-</p>
-
+After designing the PCB layout, I had the board manufactured by JLCPCB.
 forrsaztópáka, pákahhegy típusa.
 forrasztóállomás, ventillátor, egyek eszközök leírása
 forrasztás sorrendje
  tippek, tanácsok, megfigyelések
- 
-## PCB without connectors
+ ![tools](https://github.com/user-attachments/assets/a18f79c0-9cfc-4297-8dea-78d1f986ac8a)
+<p align="center">
+  Tools used
+</p>
+
 ![Arduino Clone without connectors](https://github.com/user-attachments/assets/1b32d16d-f6b8-4050-adc0-0c11530b55bf)
 
 
