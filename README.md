@@ -7,12 +7,17 @@ This project involves creating a microcontroller similar to the Arduino UNO. The
   Arduino Clone board
 </p>
 
+Az elkészítéshez szükséges dokumentumok, link
 
 [Schematic.pdf](https://github.com/user-attachments/files/17350274/Schematic.pdf)
 <p align="center">
   Schematic
 </p>
 
+PCB layout tervezés elvek
+
+
+![3D_model_side](https://github.com/user-attachments/assets/1b55edcb-aaf1-433e-909e-a591001d5ce3)
 <p align="center">
   3D model in Altium Designer
 </p>
@@ -22,15 +27,25 @@ This project involves creating a microcontroller similar to the Arduino UNO. The
   PCB without components
 </p>
 
+JLCPCB rendelés fémezés
+
 ![tools](https://github.com/user-attachments/assets/a18f79c0-9cfc-4297-8dea-78d1f986ac8a)
 <p align="center">
   Tools used
 </p>
 
+forrsaztópáka, pákahhegy típusa.
+forrasztóállomás, ventillátor, egyek eszközök leírása
+forrasztás sorrendje
+ tippek, tanácsok, megfigyelések
+
 ![Arduino Clone without connectors](https://github.com/user-attachments/assets/1b32d16d-f6b8-4050-adc0-0c11530b55bf)
 <p align="center">
   PCB without connectors
 </p>
+
+tesztelés tippek ,
+multiméter típuse
 
 
 ![Arduino Clone](https://github.com/user-attachments/assets/6ae7c882-7071-4322-a1c5-160ab8250482)
