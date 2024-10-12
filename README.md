@@ -6,7 +6,7 @@ This project involves creating a microcontroller similar to the Arduino UNO. The
 
 ## Designing PCB layout and 3D model in Altium Designer
 
-Designing the PCB layout and 3D model in Altium Designer. I have uploaded all the necessary documents for circuit manufacturing to the repository. For guidance on creating the schematic and PCB layout, I followed Robert Feranec's videos.
+I have uploaded all the necessary documents for circuit manufacturing to the repository. For guidance on creating the schematic and PCB layout, I followed Robert Feranec's videos.
 
 https://www.udemy.com/course/learn-to-design-your-own-boards/?couponCode=KEEPLEARNING
 
