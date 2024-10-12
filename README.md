@@ -63,13 +63,7 @@ To check if the component was properly soldered, I pushed one of its leads with 
 
 However, this method was not practical, because is some cases the solder mask came off during the pushing process.
 
-
-![Arduino Clone](https://github.com/user-attachments/assets/6ae7c882-7071-4322-a1c5-160ab8250482)
-<p align="center">
-  Arduino Clone board
-</p>
 After soldering all the components, I checked each soldered connection using a multimeter to ensure that all connections were properly made. Afterward, I soldered the connectors and checked them as well to ensure proper connections. Fortunately, all the soldered joints were correct, so no further adjustments were needed.
-
 
 ![Arduino Clone compared to Arduino UNO](https://github.com/user-attachments/assets/3747f3fa-b0d8-47f7-8aa0-9a67a52f108f)
 <p align="center">
