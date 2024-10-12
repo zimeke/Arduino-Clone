@@ -1,26 +1,23 @@
-# Arduino-Clone
+# Arduino Clone
 This project involves creating a microcontroller similar to the Arduino UNO. The design and implementation were based on the guidance provided by the Fedevel Academy. The project includes PCB layout design using Altium Designer, soldering the components, checking the soldered connections, programming, and testing the microcontroller.
 
   
 ![Arduino Clone](https://github.com/user-attachments/assets/ef1879f8-106a-4f77-97d0-3fa135d964d2)
-<p align="center">
-  Arduino Clone board
-</p>
 
-Az elkészítéshez szükséges dokumentumok, link
+## Designing PCB layout and 3D model in Altium Designer
 
-[Schematic.pdf](https://github.com/user-attachments/files/17350274/Schematic.pdf)
-<p align="center">
-  Schematic
-</p>
+Designing the PCB layout and 3D model in Altium Designer. I have uploaded all the necessary documents for circuit manufacturing to the repository. For guidance on creating the schematic, I followed Robert Feranec's videos.
 
-PCB layout tervezés elvek
+https://www.udemy.com/course/learn-to-design-your-own-boards/?couponCode=KEEPLEARNING
+
+https://www.youtube.com/@RobertFeranec
 
 
 ![3D_model_side](https://github.com/user-attachments/assets/1b55edcb-aaf1-433e-909e-a591001d5ce3)
 <p align="center">
   3D model in Altium Designer
 </p>
+
 
 ![Arduino Clone without components](https://github.com/user-attachments/assets/2be04e06-dffd-4367-baf8-fb202165b220)
 <p align="center">
@@ -38,14 +35,13 @@ forrsaztópáka, pákahhegy típusa.
 forrasztóállomás, ventillátor, egyek eszközök leírása
 forrasztás sorrendje
  tippek, tanácsok, megfigyelések
-
+ 
+## PCB without connectors
 ![Arduino Clone without connectors](https://github.com/user-attachments/assets/1b32d16d-f6b8-4050-adc0-0c11530b55bf)
-<p align="center">
-  PCB without connectors
-</p>
 
-tesztelés tippek ,
-multiméter típuse
+
+
+After soldering all the components, I checked each soldered connection using a multimeter to ensure that all connections were properly made. Afterward, I soldered the connectors and checked them as well to ensure proper connections. Fortunately, all the soldered joints were correct, so no further adjustments were needed.
 
 
 ![Arduino Clone](https://github.com/user-attachments/assets/6ae7c882-7071-4322-a1c5-160ab8250482)
