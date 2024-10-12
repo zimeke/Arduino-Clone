@@ -33,7 +33,7 @@ https://www.udemy.com/course/learn-to-design-your-own-boards
   PCB without components
 </p>
 
-After designing the PCB layout, I had the board manufactured by JLCPCB. I ordered the components from Digi-Key, which I soldered onto the PCB by hand. For the soldering process, I utsed the following tools:
+After designing the PCB layout, I had the board manufactured by JLCPCB. I ordered the components from Digi-Key, which I soldered on the PCB by hand. For the soldering process, I used the following tools:
 * Flux: EDSYN FL 22 R & Stannol 165018 F-SW 26
 * Solder: STANNOL HF32
 * Tweezers
