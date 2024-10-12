@@ -33,11 +33,15 @@ https://www.udemy.com/course/learn-to-design-your-own-boards
   PCB without components
 </p>
 
-After designing the PCB layout, I had the board manufactured by JLCPCB.
-forrsaztópáka, pákahhegy típusa.
-forrasztóállomás, ventillátor, egyek eszközök leírása
-forrasztás sorrendje
- tippek, tanácsok, megfigyelések
+After designing the PCB layout, I had the board manufactured by JLCPCB. I ordered the components from Digi-Key, which I soldered onto the PCB by hand. For the soldering process, I utsed the following tools:
+* Flux: EDSYN FL 22 R & Stannol 165018 F-SW 26
+* Solder: STANNOL HF32
+* Tweezers
+* Soldering Station: Hakko FX888D
+* Soldering Tip: Hakko T18-D24
+* Desoldering Wire
+
+
  ![tools](https://github.com/user-attachments/assets/a18f79c0-9cfc-4297-8dea-78d1f986ac8a)
 <p align="center">
   Tools used
