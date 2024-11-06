@@ -1,5 +1,5 @@
 # Arduino Clone
-This project involves creating a microcontroller similar to the Arduino UNO. The design and implementation were based on the guidance provided by the Robert Feranec. The project includes PCB layout design using Altium Designer, soldering the components, checking the soldered connections, programming, and testing the microcontroller.
+This project involves creating a microcontroller similar to the Arduino UNO. The design and implementation were based on the guidance provided by Robert Feranec (youtube/udemy educator). The project includes PCB layout design using Altium Designer, soldering the components, checking the soldered connections, programming, and testing the microcontroller.
 
   
 ![Arduino Clone](https://github.com/user-attachments/assets/ef1879f8-106a-4f77-97d0-3fa135d964d2)
